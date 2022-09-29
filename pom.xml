@@ -26,7 +26,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>cloudsmart</finalName>
+		<finalName>cloudsmartnew</finalName>
 	</build>
 	
 </project>
